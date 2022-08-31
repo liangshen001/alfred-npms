@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@liangshen/alfred': ^1.0.5
+
+dependencies:
+  '@liangshen/alfred': 1.0.5
+
+packages:
+
+  /@liangshen/alfred/1.0.5:
+    resolution: {integrity: sha512-yhqesEUmBjQ/h75BOcwOOquXcly8S3kJYnLcmy8YTRY0qP9xPgFuN8VZ+xc3kmDXHjsrCezzpOfEtomTXJSeLQ==}
+    dev: false
